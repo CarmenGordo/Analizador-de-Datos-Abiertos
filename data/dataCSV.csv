@@ -1,0 +1,211 @@
+TERRITORIO#es,TERRITORIO_CODE,TIME_PERIOD#es,TIME_PERIOD_CODE,IMPORTE_TASA_TURISTICA#es,IMPORTE_TASA_TURISTICA_CODE,PAIS_RESIDENCIA#es,PAIS_RESIDENCIA_CODE,MEDIDAS#es,MEDIDAS_CODE,OBS_VALUE,ESTADO_OBSERVACION#es,CONFIDENCIALIDAD_OBSERVACION#es,NOTAS_OBSERVACION
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Alemania,DE,Turistas,TURISTAS,4567,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Reino Unido,GB,Turistas,TURISTAS,743,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Total,_T,Turistas,TURISTAS,10788,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,3026,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Otro,_O,Turistas,TURISTAS,2452,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Alemania,DE,Turistas,TURISTAS,812,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Reino Unido,GB,Turistas,TURISTAS,704,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Total,_T,Turistas,TURISTAS,5272,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,1948,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Otro,_O,Turistas,TURISTAS,1808,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Total,_T,Alemania,DE,Turistas,TURISTAS,9702,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Total,_T,Reino Unido,GB,Turistas,TURISTAS,2162,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Total,_T,Total,_T,Turistas,TURISTAS,30966,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Total,_T,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,9708,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Total,_T,Otro,_O,Turistas,TURISTAS,9394,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Alemania,DE,Turistas,TURISTAS,1581,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Reino Unido,GB,Turistas,TURISTAS,296,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Total,_T,Turistas,TURISTAS,6658,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,2229,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Otro,_O,Turistas,TURISTAS,2552,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Alemania,DE,Turistas,TURISTAS,1572,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Reino Unido,GB,Turistas,TURISTAS,235,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Total,_T,Turistas,TURISTAS,4419,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,1773,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Otro,_O,Turistas,TURISTAS,838,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Alemania,DE,Turistas,TURISTAS,,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Reino Unido,GB,Turistas,TURISTAS,,,,
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Total,_T,Turistas,TURISTAS,573,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,556,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Otro,_O,Turistas,TURISTAS,17,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Alemania,DE,Turistas,TURISTAS,1170,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Reino Unido,GB,Turistas,TURISTAS,184,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Total,_T,Turistas,TURISTAS,3257,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,175,,,Dato estimado con menos de 20 observaciones muestrales
+La Palma,ES707,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Otro,_O,Turistas,TURISTAS,1728,,,Dato estimado con menos de 20 observaciones muestrales
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Alemania,DE,Turistas,TURISTAS,53230,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Reino Unido,GB,Turistas,TURISTAS,48595,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Total,_T,Turistas,TURISTAS,147398,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,10054,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Otro,_O,Turistas,TURISTAS,35520,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Alemania,DE,Turistas,TURISTAS,17020,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Reino Unido,GB,Turistas,TURISTAS,30135,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Total,_T,Turistas,TURISTAS,74229,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,9547,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Otro,_O,Turistas,TURISTAS,17527,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Total,_T,Alemania,DE,Turistas,TURISTAS,143734,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Total,_T,Reino Unido,GB,Turistas,TURISTAS,149590,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Total,_T,Total,_T,Turistas,TURISTAS,475784,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Total,_T,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,41848,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Total,_T,Otro,_O,Turistas,TURISTAS,140612,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Alemania,DE,Turistas,TURISTAS,43157,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Reino Unido,GB,Turistas,TURISTAS,35221,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Total,_T,Turistas,TURISTAS,153880,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,12040,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Otro,_O,Turistas,TURISTAS,63462,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Alemania,DE,Turistas,TURISTAS,19557,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Reino Unido,GB,Turistas,TURISTAS,23366,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Total,_T,Turistas,TURISTAS,63890,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,7280,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Otro,_O,Turistas,TURISTAS,13687,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Alemania,DE,Turistas,TURISTAS,1691,,,Dato estimado con menos de 20 observaciones muestrales
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Reino Unido,GB,Turistas,TURISTAS,1459,,,Dato estimado con menos de 20 observaciones muestrales
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Total,_T,Turistas,TURISTAS,5324,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,858,,,Dato estimado con menos de 20 observaciones muestrales
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Otro,_O,Turistas,TURISTAS,1316,,,Dato estimado con menos de 20 observaciones muestrales
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Alemania,DE,Turistas,TURISTAS,9079,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Reino Unido,GB,Turistas,TURISTAS,10814,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Total,_T,Turistas,TURISTAS,31063,,,
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,2069,,,Dato estimado con menos de 20 observaciones muestrales
+Fuerteventura,ES704,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Otro,_O,Turistas,TURISTAS,9100,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Alemania,DE,Turistas,TURISTAS,15114,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Reino Unido,GB,Turistas,TURISTAS,83967,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Total,_T,Turistas,TURISTAS,164167,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,13806,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Otro,_O,Turistas,TURISTAS,51280,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Alemania,DE,Turistas,TURISTAS,1319,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Reino Unido,GB,Turistas,TURISTAS,72031,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Total,_T,Turistas,TURISTAS,118291,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,16830,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Otro,_O,Turistas,TURISTAS,28112,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Total,_T,Alemania,DE,Turistas,TURISTAS,42412,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Total,_T,Reino Unido,GB,Turistas,TURISTAS,332492,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Total,_T,Total,_T,Turistas,TURISTAS,623519,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Total,_T,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,59207,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Total,_T,Otro,_O,Turistas,TURISTAS,189409,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Alemania,DE,Turistas,TURISTAS,13386,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Reino Unido,GB,Turistas,TURISTAS,83195,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Total,_T,Turistas,TURISTAS,183290,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,17586,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Otro,_O,Turistas,TURISTAS,69123,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Alemania,DE,Turistas,TURISTAS,9008,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Reino Unido,GB,Turistas,TURISTAS,50680,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Total,_T,Turistas,TURISTAS,99755,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,8212,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Otro,_O,Turistas,TURISTAS,31855,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Alemania,DE,Turistas,TURISTAS,291,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Reino Unido,GB,Turistas,TURISTAS,4296,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Total,_T,Turistas,TURISTAS,5621,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,785,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Otro,_O,Turistas,TURISTAS,249,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Alemania,DE,Turistas,TURISTAS,3293,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Reino Unido,GB,Turistas,TURISTAS,38324,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Total,_T,Turistas,TURISTAS,52394,,,
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,1986,,,Dato estimado con menos de 20 observaciones muestrales
+Lanzarote,ES708,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Otro,_O,Turistas,TURISTAS,8791,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Alemania,DE,Turistas,TURISTAS,38076,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Reino Unido,GB,Turistas,TURISTAS,103472,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Total,_T,Turistas,TURISTAS,306453,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,40620,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Otro,_O,Turistas,TURISTAS,124286,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Alemania,DE,Turistas,TURISTAS,12214,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Reino Unido,GB,Turistas,TURISTAS,135586,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Total,_T,Turistas,TURISTAS,275943,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,53989,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Otro,_O,Turistas,TURISTAS,74154,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Total,_T,Alemania,DE,Turistas,TURISTAS,137411,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Total,_T,Reino Unido,GB,Turistas,TURISTAS,552303,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Total,_T,Total,_T,Turistas,TURISTAS,1373872,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Total,_T,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,200677,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Total,_T,Otro,_O,Turistas,TURISTAS,483482,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Alemania,DE,Turistas,TURISTAS,41356,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Reino Unido,GB,Turistas,TURISTAS,137554,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Total,_T,Turistas,TURISTAS,417079,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,57812,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Otro,_O,Turistas,TURISTAS,180358,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Alemania,DE,Turistas,TURISTAS,28851,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Reino Unido,GB,Turistas,TURISTAS,124625,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Total,_T,Turistas,TURISTAS,246161,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,35104,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Otro,_O,Turistas,TURISTAS,57582,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Alemania,DE,Turistas,TURISTAS,409,,,Dato estimado con menos de 20 observaciones muestrales
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Reino Unido,GB,Turistas,TURISTAS,1439,,,Dato estimado con menos de 20 observaciones muestrales
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Total,_T,Turistas,TURISTAS,5687,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,1222,,,Dato estimado con menos de 20 observaciones muestrales
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Otro,_O,Turistas,TURISTAS,2616,,,Dato estimado con menos de 20 observaciones muestrales
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Alemania,DE,Turistas,TURISTAS,16505,,,Dato estimado con menos de 20 observaciones muestrales
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Reino Unido,GB,Turistas,TURISTAS,49627,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Total,_T,Turistas,TURISTAS,122549,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,11931,,,
+Tenerife,ES709,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Otro,_O,Turistas,TURISTAS,44486,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Alemania,DE,Turistas,TURISTAS,158853,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Reino Unido,GB,Turistas,TURISTAS,283082,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Total,_T,Turistas,TURISTAS,823991,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,91990,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Otro,_O,Turistas,TURISTAS,290067,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Alemania,DE,Turistas,TURISTAS,56360,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Reino Unido,GB,Turistas,TURISTAS,294242,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Total,_T,Turistas,TURISTAS,642807,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,120417,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Otro,_O,Turistas,TURISTAS,171788,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Total,_T,Alemania,DE,Turistas,TURISTAS,481530,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Total,_T,Reino Unido,GB,Turistas,TURISTAS,1259981,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Total,_T,Total,_T,Turistas,TURISTAS,3317025,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Total,_T,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,438235,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Total,_T,Otro,_O,Turistas,TURISTAS,1137279,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Alemania,DE,Turistas,TURISTAS,135881,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Reino Unido,GB,Turistas,TURISTAS,319001,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Total,_T,Turistas,TURISTAS,1030485,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,131144,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Otro,_O,Turistas,TURISTAS,444459,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Alemania,DE,Turistas,TURISTAS,90831,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Reino Unido,GB,Turistas,TURISTAS,230699,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Total,_T,Turistas,TURISTAS,524009,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,65822,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Otro,_O,Turistas,TURISTAS,136657,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Alemania,DE,Turistas,TURISTAS,2620,,,Dato estimado con menos de 20 observaciones muestrales
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Reino Unido,GB,Turistas,TURISTAS,9965,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Total,_T,Turistas,TURISTAS,26163,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,4085,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Otro,_O,Turistas,TURISTAS,9493,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Alemania,DE,Turistas,TURISTAS,36985,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Reino Unido,GB,Turistas,TURISTAS,122992,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Total,_T,Turistas,TURISTAS,269569,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,24776,,,
+Canarias,ES70,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Otro,_O,Turistas,TURISTAS,84815,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Alemania,DE,Turistas,TURISTAS,45512,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Reino Unido,GB,Turistas,TURISTAS,45589,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Total,_T,Turistas,TURISTAS,190391,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,23904,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 2€,EUR_LE2,Otro,_O,Turistas,TURISTAS,75385,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Alemania,DE,Turistas,TURISTAS,24727,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Reino Unido,GB,Turistas,TURISTAS,55227,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Total,_T,Turistas,TURISTAS,167765,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,37869,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No aplicable,_Z,Otro,_O,Turistas,TURISTAS,49942,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Total,_T,Alemania,DE,Turistas,TURISTAS,144532,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Total,_T,Reino Unido,GB,Turistas,TURISTAS,221681,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Total,_T,Total,_T,Turistas,TURISTAS,802434,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Total,_T,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,124741,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Total,_T,Otro,_O,Turistas,TURISTAS,311481,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Alemania,DE,Turistas,TURISTAS,35769,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Reino Unido,GB,Turistas,TURISTAS,62487,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Total,_T,Turistas,TURISTAS,267782,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,41389,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 1€,EUR_LE1,Otro,_O,Turistas,TURISTAS,128137,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Alemania,DE,Turistas,TURISTAS,31499,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Reino Unido,GB,Turistas,TURISTAS,31771,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Total,_T,Turistas,TURISTAS,108845,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,13137,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Hasta 3€,EUR_LE3,Otro,_O,Turistas,TURISTAS,32439,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Alemania,DE,Turistas,TURISTAS,229,,,Dato estimado con menos de 20 observaciones muestrales
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Reino Unido,GB,Turistas,TURISTAS,2771,,,Dato estimado con menos de 20 observaciones muestrales
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Total,_T,Turistas,TURISTAS,8959,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,663,,,Dato estimado con menos de 20 observaciones muestrales
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,No sabe/No contesta,_N,Otro,_O,Turistas,TURISTAS,5296,,,Dato estimado con menos de 20 observaciones muestrales
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Alemania,DE,Turistas,TURISTAS,6796,,,Dato estimado con menos de 20 observaciones muestrales
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Reino Unido,GB,Turistas,TURISTAS,23836,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Total,_T,Turistas,TURISTAS,58692,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,España (excluida Canarias),ES_XIC,Turistas,TURISTAS,7778,,,
+Gran Canaria,ES705,2024 Segundo trimestre,2024-Q2,Más de 3€,EUR_GT3,Otro,_O,Turistas,TURISTAS,20282,,,
